@@ -1,6 +1,6 @@
 [submodule "jni/external/nmslib"]
 	path = jni/external/nmslib
-	url = https://github.com/nmslib/nmslib.git
+	url = https://github.com.cnpmjs.org/nmslib/nmslib.git
 [submodule "jni/external/faiss"]
 	path = jni/external/faiss
-	url = https://github.com/facebookresearch/faiss.git
+	url = https://github.com.cnpmjs.org/facebookresearch/faiss.git
